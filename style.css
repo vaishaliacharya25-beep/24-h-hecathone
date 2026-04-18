@@ -1,0 +1,20 @@
+body{
+    font-family: arial;
+    background-color: gray;
+    display: flexbox;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+ .container {
+    background-color: rgba(66, 46, 71, 0.486);
+    padding: 150px;
+    border-radius: 20px;
+    width: 300px;
+    height: 20px;
+    box-shadow: 10px rgb(99, 62, 148);
+    align-items: center;
+    margin-left: 400px;
+ }
+
